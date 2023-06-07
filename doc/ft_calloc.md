@@ -13,3 +13,6 @@ The C library function **void *calloc(size_t nitems, size_t size)** allocates th
 
 This function returns a pointer to the allocated memory, or NULL if the request fails.
 
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

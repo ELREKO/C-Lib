@@ -15,3 +15,7 @@ char *ft_strjoin(char const *s1, char const *s2);
 ## Return 
 - The new string.
 - NULL if the allocation fails.
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

@@ -7,3 +7,12 @@ checks for an alphabetic character; in the standard "C" locale, it is equivalent
 ```c
 int ft_isalpha (int arg)
 ```
+
+## Return
+- '1' if true
+- '0' if false
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)
+

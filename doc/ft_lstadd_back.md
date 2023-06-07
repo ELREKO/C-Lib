@@ -14,3 +14,8 @@ Adds the node ’new’ at the end of the list.
 
 ## Return
 - None
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)
+

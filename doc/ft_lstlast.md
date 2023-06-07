@@ -13,3 +13,7 @@ Returns the last node of the list.
 
 ## Return 
 Last node of the list.
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

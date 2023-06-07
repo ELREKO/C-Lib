@@ -14,3 +14,7 @@ The **strnstr** function locates the first occurrence of the null-terminated str
 If search is an empty string, big is returned; if little occurs nowhere in big, NULL is
 returned; otherwise a pointer to the first character of the first occurrence of little is
 returned.
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

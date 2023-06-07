@@ -14,3 +14,7 @@ char *ft_strmapi(char const *s, char (*f)(unsigned int, char));
 ## Return value
 - The string created from the successive applications of ’f’. Returns
 - NULL if the allocation fails.
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

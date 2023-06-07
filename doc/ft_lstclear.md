@@ -13,3 +13,7 @@ Deletes and frees the given node and every successor of that node, using the fun
 - del: The address of the function used to delete the content of the node.
 ## Return
 - None
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

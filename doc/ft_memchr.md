@@ -19,3 +19,7 @@ It is a littel bit analog to [[ft_strchr]]
 ## Return Value
 
 This function returns a pointer to the matching byte or NULL if the character does not occur in the given memory area.
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

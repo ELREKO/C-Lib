@@ -16,3 +16,7 @@ char *ft_substr(char const *s, unsigned int start, size_t len);
 ## Return 
 - The substring. 
 - NULL if the allocation fails.
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

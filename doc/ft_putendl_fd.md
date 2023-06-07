@@ -14,3 +14,7 @@ Outputs the string ’s’ to the given file descriptor followed by a newline.
 
 ## Return 
 - None
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

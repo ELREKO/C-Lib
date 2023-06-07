@@ -14,3 +14,7 @@ Takes as a parameter a node and frees the memory of the node’s content using t
 
 ## Return 
 - None
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

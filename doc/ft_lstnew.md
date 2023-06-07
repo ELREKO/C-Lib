@@ -12,3 +12,7 @@ Allocates (with malloc(3)) and returns a new node. The member variable ’conten
 - content: The content to create the node with.
 ## Return
 The new node
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

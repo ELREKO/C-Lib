@@ -11,3 +11,8 @@ Below is the C implementation to show the use of strdup() function in C
 	char *strdup(const char *s);
 ```
 
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)
+
+

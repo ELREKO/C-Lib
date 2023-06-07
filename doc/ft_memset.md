@@ -7,3 +7,6 @@ The C library function **void *memset(void *str, int c, size_t n)** copies the c
 ```c
 void *memset(void *str, int c, size_t n)
 ```
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

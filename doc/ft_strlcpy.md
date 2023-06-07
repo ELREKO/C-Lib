@@ -17,3 +17,7 @@ ft_strlcpy(char *dst_, const char *src, size_t size);
 ```
 - lbsd
 ```
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

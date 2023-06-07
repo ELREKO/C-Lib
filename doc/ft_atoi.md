@@ -16,3 +16,7 @@ Gültige Strings wären z.B. „ 123“, „+1232“, „-42“.
 ## Return Value
 
 This function returns the converted integral number as an int value. If no valid conversion could be performed, it returns zero.
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

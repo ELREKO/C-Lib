@@ -15,3 +15,7 @@ Output the string 's'
 ## Return 
 - The trimmed string.
 - NULL if the allocation fails.
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

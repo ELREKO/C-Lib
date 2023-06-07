@@ -7,3 +7,7 @@ The **bzero**() function erases the data in the _n_ bytes of the memor starting 
 ```c
 void bzero(void *s, size_t n);
 ```
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

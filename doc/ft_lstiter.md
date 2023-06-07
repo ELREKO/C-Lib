@@ -14,3 +14,8 @@ Iterates the list ’lst’ and applies the function ’f’ on the content of e
 ## Return 
 - None
 
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)
+
+

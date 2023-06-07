@@ -15,3 +15,7 @@ char **ft_split(char const *s, char c);
 ## Return 
 - The array of new strings resulting from the split. 
 - NULL if the allocation fails.
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

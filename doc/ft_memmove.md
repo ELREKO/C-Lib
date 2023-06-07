@@ -16,5 +16,6 @@ void *memmove(void *str1, const void *str2, size_t n)
 -   **str2** − This is a pointer to the source of data to be copied, type-casted to a pointer of type void*.
 -   **n** − This is the number of bytes to be copied.
 
-
-157595
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

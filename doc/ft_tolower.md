@@ -9,3 +9,7 @@ If the arguments passed to the tolower() function is other than an uppercase alp
 ```c
 int tolower(int argument);
 ```
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

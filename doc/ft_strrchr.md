@@ -11,3 +11,7 @@ char *strrchr(const char *str, int c)
 ## Parameters
 -   **str** − This is the C string.
 -   **c** − This is the character to be located. It is passed as its int promotion, but it is internally converted back to char.
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

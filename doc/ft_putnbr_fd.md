@@ -14,3 +14,7 @@ Outputs the integer ’n’ to the given file descriptor.
 
 ## Return 
 - None
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

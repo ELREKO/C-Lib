@@ -16,3 +16,7 @@ This function return values that are as follows
 -   if Return value < 0 then it indicates str1 is less than str2.
 -   if Return value > 0 then it indicates str2 is less than str1.
 -   if Return value = 0 then it indicates str1 is equal to str2.
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)

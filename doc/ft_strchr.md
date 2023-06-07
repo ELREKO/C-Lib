@@ -15,3 +15,7 @@ const char *strchr ( const char *str, int ch );
 ## Return Value
 
 This returns a pointer to the first occurrence of the character c in the string str, or NULL if the character is not found.
+
+---
+- [Back to overwiew](Overview_about_function.md)
+- [Back to main](/)
