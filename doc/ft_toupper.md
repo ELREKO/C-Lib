@@ -8,5 +8,4 @@ The toupper() function converts a lowercase alphabet to an uppercase alphabet.
 ```
 ---
 - [Back to overwiew](Overview_about_function.md)
-
 - [Back to main](/)
