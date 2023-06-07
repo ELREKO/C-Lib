@@ -1,3 +1,5 @@
+# ft_strjoin
+
 ## Description
 Allocates (with malloc(3)) and returns a new string, which is the result of the concatenation of ’s1’ and ’s2’.
 

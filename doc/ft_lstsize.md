@@ -1,3 +1,5 @@
+# ft_lstsize
+
 ## Description
 Counts the number of nodes in a list.
 

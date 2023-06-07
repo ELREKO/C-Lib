@@ -1,5 +1,6 @@
-## Description
+# ft_memcmp
 
+## Description
 The C library function **int memcmp(const void *str1, const void *str2, size_t n))** compares the first **n** bytes of memory area **str1** and memory area **str2**.
 
 ## Declaration

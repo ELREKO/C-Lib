@@ -1,3 +1,5 @@
+# ft_calloc
+
 ## Description
 The C library function **void *calloc(size_t nitems, size_t size)** allocates the requested memory and returns a pointer to it. The difference in **malloc** and **calloc** is that **malloc does not set the memory to zero where as calloc sets allocated memory to zero**.
 

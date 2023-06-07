@@ -1,3 +1,5 @@
+# ft_strncmp
+
 ## Description
 
 The C library function **int strncmp(const char *str1, const char *str2, size_t n)** compares at most the first **n** bytes of **str1** and **str2**.

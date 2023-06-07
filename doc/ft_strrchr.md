@@ -1,5 +1,6 @@
-## Description
+# ft_strrchr
 
+## Description
 The C library function **char *strrchr(const char *str, int c)** searches for the last occurrence of the character **c** (an unsigned char) in the string pointed to, by the argument **str**.
 
 ## Declaration

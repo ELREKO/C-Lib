@@ -1,5 +1,6 @@
-## Description
+# ft_memmove
 
+## Description
 The C library function **void *memmove(void *str1, const void *str2, size_t n)** copies **n** characters from **str2** to **str1**, but for overlapping memory blocks, memmove() is a safer approach than memcpy().
 
 ## Declaration

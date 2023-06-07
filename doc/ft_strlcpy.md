@@ -1,12 +1,14 @@
-# Discription
+# ft_strlcpy
+
+## Discription
 In computer programming, the **strlcpy** function is intended to replace the function strcpy (which copies a string to a destination buffer) with a secure version that cannot overflow the destination buffer.
 
-# Synopsis
+## Declaration 
 ```c
 ft_strlcpy(char *dst_, const char *src, size_t size);
 ```
 
-# good To know 
+## good To know 
 - Useing 
 ```c
 #include <bsd/string.h>

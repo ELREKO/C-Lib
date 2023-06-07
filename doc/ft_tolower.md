@@ -1,3 +1,5 @@
+# ft_tolower
+
 ## Description
 The tolower() function takes an uppercase alphabet and convert it to a lowercase character.
 
