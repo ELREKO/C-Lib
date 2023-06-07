@@ -15,6 +15,6 @@ The functions in the Libft folder correspond to the Libft task of 42. In **main.
 
 ---
 ## Link for Test Libft
-[francinette](https://github.com/xicodomingues/francinette)
-For using fancinette you have to install **Norminette**
-[norminette](https://github.com/42School/norminette)
+[francinette](https://github.com/xicodomingues/francinette){:target="_blank"}
+For using fancinette you have to install
+[norminette](https://github.com/42School/norminette){:target="_blank"}
