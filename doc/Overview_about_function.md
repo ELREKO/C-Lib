@@ -1,0 +1,52 @@
+# LIBFT 
+Includet functions
+
+## function Part 1
+- [ft_isalpha](doc/ft_isalpha.md)
+- [ft_isdigit](doc/ft_isdigit.md)
+- [ft_isalnum](doc/ft_isalnum.md)
+- [ft_isascii](doc/ft_isascii.md)
+- [ft_isprint](doc/ft_isprint.md)
+- [ft_tolower](doc/ft_tolower.md)
+- [ft_toupper](doc/ft_toupper.md)
+- [ft_strlen](doc/ft_strlen.md)
+- [ft_memset](doc/ft_memset.md)
+- [ft_bzero](doc/ft_bzero.md)
+- [ft_memcpy](doc/ft_memcpy.md)
+- [ft_memmove](doc/ft_memmove.md)
+- [ft_strlcpy](doc/ft_strlcpy.md)
+- [ft_strlcat](doc/ft_strlcat.md)
+- [ft_strchr](doc/ft_strchr.md)
+- [ft_strrchr](doc/ft_strrchr.md)
+- [ft_strncmp](doc/ft_strncmp.md)
+- [ft_memchr](doc/ft_memchr.md)
+- [ft_memcmp](doc/ft_memcmp.md)
+- [ft_strnstr](doc/ft_strnstr.md)
+- [ft_strdup](doc/ft_strdup.md)
+- [ft_atoi](doc/ft_atoi.md)
+- [ft_calloc](doc/ft_calloc.md)
+
+## function Part 2
+- [ft_substr](doc/ft_substr.md)
+- [ft_strjoin](doc/ft_strjoin.md)
+- [ft_strtrim](doc/ft_strtrim.md)
+- [ft_split](doc/ft_split.md)
+- [ft_itoa](doc/ft_itoa.md)
+- [ft_strmapi](doc/ft_strmapi.md)
+- [ft_striteri](doc/ft_striteri.md)
+- [ft_putchar_fd](doc/ft_putchar_fd.md)
+- [ft_putstr_fd](doc/ft_putstr_fd.md)
+- [ft_putendl_fd](doc/ft_putendl_fd.md)
+- [ft_putnbr_fd](doc/ft_putnbr_fd.md)
+
+## function bonus
+- [ft_lstnew](doc/ft_lstnew.md)
+- [ft_lstadd_front](doc/ft_lstadd_front.md)
+- [ft_lstsize](doc/ft_lstsize.md)
+- [ft_lstlast](doc/ft_lstlast.md)
+- [ft_lstadd_back](doc/ft_lstadd_back.md)
+- [ft_lstdelone](doc/ft_lstdelone.md)
+- [ft_lstclear](doc/ft_lstclear.md)
+- [ft_lstiter](doc/ft_lstiter.md)
+- [ft_lstmap](doc/ft_lstmap.md)
+
