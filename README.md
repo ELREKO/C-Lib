@@ -6,7 +6,7 @@ First Project for 42 Coding school.
 [Task](/PDF/Libft_subject.pdf)
 
 ---
-## Overview abaout the functions
+## Overview about the functions
 [Overview](/doc/Overview_about_function.md)
 
 ---
