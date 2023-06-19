@@ -34,4 +34,9 @@ re:				fclean $(NAME)
 bonus:			$(OBJS) $(BONUS_OBJS)
 				ar rcs $(NAME) $(OBJS) $(BONUS_OBJS)
 
+run: 			bonus
+	$(CC) $(CFLAGS) main.c -o program -L. -lft
+	./program
+
+
 .PHONY:			all clean fclean re bonus
