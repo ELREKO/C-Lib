@@ -149,8 +149,7 @@ SRC =	ft_atoi.c \
 		remove_spaces_inplace.c \
 		str_only_spaces.c \
 		d_lst_is_first.c \
-		d_lst_is_last.c \
-		main.c \
+		d_lst_is_last.c
 
 
 
