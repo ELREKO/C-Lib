@@ -18,12 +18,17 @@ Implement a function to read lines from files or other input streams. This requi
 ## Using the Library
 
 ### Using in Your Own Project
-1. Navigate to the libft directory.
-2. Execute the Makefile with the command:
+1. clone the repo
+   ```shell
+   git clone https://github.com/ELREKO/C-Lib.git
+   ```
+    Navigate to the libft directory.
+   
+3. Execute the Makefile with the command:
     ```shell
     make
     ```
-3. Include the library in your own projects:
+4. Include the library in your own projects:
     ```c
     #include "libft/libft.h"
     ```
