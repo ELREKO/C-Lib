@@ -1,5 +1,5 @@
 # ![book](doc/pic/lib_pic.png) C - Library 📚
-These are the first projects of the programming school [42 Berlin](https://42berlin.de/en/). The originally required library, libft, was expanded with additional useful functions during subsequent projects where the custom C library was allowed to be used. The library can be used as an alternative to the standard library. 
+These are the first projects of the programming school [42 Berlin](https://42berlin.de/). The originally required library, libft, was expanded with additional useful functions during subsequent projects where the custom C library was allowed to be used. The library can be used as an alternative to the standard library. 
 
 ## Overview of the Functions [Overview](/doc/Overview_about_function.md)
 If there are any issues in the documentation or functionality, I would appreciate a notification.
